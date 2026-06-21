@@ -14,11 +14,11 @@
     "@aiscrumboard/shared": "workspace:*",
     "@anthropic-ai/sdk": "^0.40.0",
     "bullmq": "^5.34.6",
-    "drizzle-orm": "^0.38.3",
+    "drizzle-orm": "^0.45.2",
     "ioredis": "^5.4.2",
     "octokit": "^4.1.0",
     "postgres": "^3.4.5",
-    "zod": "^3.24.1"
+    "zod": "^4.4.3"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",

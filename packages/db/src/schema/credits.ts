@@ -1,4 +1,4 @@
-import { pgTable, uuid, text, timestamp, numeric } from 'drizzle-orm/pg-core';
+import { pgTable, uuid, text, timestamp, numeric, jsonb } from 'drizzle-orm/pg-core';
 import { users } from './users.js';
 
 export type CreditStatus = 'healthy' | 'low' | 'exhausted' | 'unknown';
